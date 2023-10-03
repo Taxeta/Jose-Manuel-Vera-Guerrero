@@ -82,11 +82,11 @@ _____
 </p>
 
 
-
+<div style= border: 1px solid #ccc>
 <p align="center"> 
 :zap: PROJECTS :zap:
 </p>
-
+</div>
 
 <p align="center"> 
 You can find several of my projects in this:&nbsp;&nbsp; <a href="https://github.com/Taxeta?tab=repositories">Repository</a>
