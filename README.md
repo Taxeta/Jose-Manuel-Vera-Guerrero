@@ -15,7 +15,7 @@
 </p>
 
 <p align="center"> 
-  #### Programming Languages
+:large_orange_diamond: Programming Languages :large_orange_diamond:
 </p>
 
 <p align="center"> 
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center"> 
-### Frontend Development
+:large_blue_diamond: Frontend Development :large_blue_diamond:
 </p>
 
 <p align="center"> 
@@ -47,16 +47,16 @@
 </p>
 
 <p align="center"> 
-### Backend Development
+:large_orange_diamond: Backend Development :large_orange_diamond:
 
 <p align="center"> 
   <a href="https://nodejs.org/" target="_blank">
-    <img src="nodejs_icon.png" alt="Node.js" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NlXPcDtzqYfFplGKTkVwDLnquG-CT34eH2JI1wAX_GA5tHEGjLmUtdd8U1zD8S9CX38&usqp=CAU" alt="Node.js" width="40" height="40"/>
   </a>
 </p>
 
 <p align="center"> 
-### Databases and Authentication
+:globe_with_meridians: DATABASES AND AUTHENTICATION :globe_with_meridians:
 </p>
 
 <p align="center"> 
@@ -72,7 +72,7 @@
 </p>
 
 <p align="center"> 
-## Projects
+:zap: PROJECTS :zap:
 </p>
 
 <p align="center"> 
@@ -88,7 +88,7 @@ You can find several of my projects in this [repository](https://github.com/Taxe
 <p align="center"> 
   <a
 I follow the agile methodology [AGILE](https://en.wikipedia.org/wiki/Agile_software_development) and develop based on SOLID principles.>
-  <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="MongoDB" width="65" height="65"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="MongoDB" width="95" height="65"/>
   </a>
 Thanks for visiting my profile!
 <p align="center"> 
