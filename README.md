@@ -82,7 +82,7 @@ My first child: [GalaxyPadel](https://galaxypadel.netlify.app/home)
 
 <p align="center"> 
   <a href="https://en.wikipedia.org/wiki/Agile_software_development">
-    <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="200" height="65"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="200" height="150"/>
   </a>
 </p>
 
