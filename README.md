@@ -90,13 +90,13 @@ _____
 _____
 
 <p align="center"> 
-You can find several of my projects in this:&nbsp;&nbsp; <a href="https://github.com/Taxeta?tab=repositories">  Repository</a>
+You can find several of my projects in this:&nbsp;&nbsp; <a href="https://github.com/Taxeta?tab=repositories">Repository</a>
 </p>
 
 _____
 
 <p align="center"> 
-My first child:<a href="https://galaxypadel.netlify.app/home">  GalaxyPadel</a>
+My first child:&nbsp;&nbsp; <a href="https://galaxypadel.netlify.app/home">GalaxyPadel</a>
 </p>
 
 
