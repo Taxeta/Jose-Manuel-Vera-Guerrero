@@ -1,5 +1,5 @@
 <div align="center"> 
-  # Hello! I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻.
+   Hello! I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻
 
 
   ## My Favorite Technology Stack: MERN Stack
@@ -64,7 +64,7 @@ _____
 
 <p align="center"> 
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfA0GGJ32gRo1E-p8xh_ubvv048OXLdvW1x_rkyMB7XHB-jMjUiQjOpNeBK0KxfBM-g&usqp=CAU" alt="MongoDB" width="65" height="65"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfA0GGJ32gRo1E-p8xh_ubvv048OXLdvW1x_rkyMB7XHB-jMjUiQjOpNeBK0KxfBM-g&usqp=CAU" alt="MongoDB" width="140" height="65"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="65" height="65"/>
@@ -97,26 +97,26 @@ _____
 :large_blue_diamond: Development Methodology :large_blue_diamond:
 </p>
 
-<p align="center"> 
-  <a href="https://en.wikipedia.org/wiki/Agile_software_development">
-    <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="200" height="150"/>
-  </a>
-</p>
 
 <p align="center">
   I follow the agile methodology <a href="https://en.wikipedia.org/wiki/Agile_software_development">AGILE</a> and develop based on SOLID principles.
-</p>
-
-<p align="center"> 
-  <a href="https://es.wikipedia.org/wiki/Soft_skills" target="_blank">
-    <img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="Soft Skills" width="40" height="40"/>
-  </a>
 </p>
 
 <p align="center">
   I strive to improve my <a href="https://es.wikipedia.org/wiki/Soft_skills">Soft Skills</a>.
 </p>
 
+<p align="center"> 
+  <a href="https://en.wikipedia.org/wiki/Agile_software_development">
+    <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="65" height="65"/>
+  </a>
+</p>
+
+<p align="center"> 
+  <a href="https://es.wikipedia.org/wiki/Soft_skills" target="_blank">
+    <img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="Soft Skills" width="65" height="65"/>
+  </a>
+</p>
 
 <p align="center"> 
   Thanks for visiting my profile! 	:heart_on_fire:
