@@ -1,19 +1,24 @@
+<p align="center"> 
 # Hello! I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻.
 
 ## My Favorite Technology Stack: MERN Stack
 
 ### Skills
 
+<a href="https://es.wikipedia.org/wiki/Soft_skills" target="_blank">
+<img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="JavaScript" width="40" height="40"/>
+</a>
+
 #### Programming Languages
 
-<p align="center"> 
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="javascript_icon.png" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="typescript_icon.png" alt="TypeScript" width="40" height="40"/>
   </a>
-</p>
+
 
 ### Frontend Development
 
@@ -34,16 +39,14 @@
 
 ### Backend Development
 
-<p align="center"> 
+
   <a href="https://nodejs.org/" target="_blank">
     <img src="nodejs_icon.png" alt="Node.js" width="40" height="40"/>
   </a>
-  <!-- Add more backend technology icons based on your preferences -->
-</p>
-
+  
 ### Databases and Authentication
 
-<p align="center"> 
+
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="65" height="65"/>
   </a>
@@ -53,20 +56,19 @@
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65"/>
   </a>
-</p>
+
 
 ## Projects
 
-You can find several of my projects in this [repository](repository_link).
+You can find several of my projects in this [repository](https://github.com/Taxeta?tab=repositories).
 
-- Project 1
-- Project 2
-- ...
+- [GalaxyPadel](https://galaxypadel.netlify.app/home)
+
 
 ## Development Methodology
 
-I follow the agile methodology [AGILE](agile_methodology_link) and develop based on SOLID principles.
+I follow the agile methodology [AGILE](https://en.wikipedia.org/wiki/Agile_software_development) and develop based on SOLID principles.
 
 Thanks for visiting my profile!
 
-
+</p>
