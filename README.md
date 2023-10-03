@@ -8,6 +8,8 @@
 :man_juggling: SKILLS :man_juggling:
 </p>
 
+_____
+
 <p align="center"> 
 :large_orange_diamond: Programming Languages :large_orange_diamond:
 </p>
@@ -20,6 +22,8 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaZOmu1I0jYuzPKpQxMs1FEEkXunHclqJtWnpbFjMDyNjUvMKvBAidPcpIBKJQlBNIoc&usqp=CAU" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
+
+_____
 
 <p align="center"> 
 :large_blue_diamond: Frontend Development :large_blue_diamond:
@@ -39,6 +43,8 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ypcSFB8vFNdXYDW4BdzHMH8Bs755Ph2OPGLMsZ4EfH8Y6OQpQuicat_OAqMHyMQYhVc&usqp=CAU" alt="Vite" width="40" height="40"/>
   </a>
 </p>
+
+_____
 
 <p align="center"> 
 :large_orange_diamond: Backend Development :large_orange_diamond:
@@ -65,17 +71,25 @@
   </a>
 </p>
 
+_____
+
 <p align="center"> 
 :zap: PROJECTS :zap:
 </p>
+_____
 
 <p align="center"> 
 You can find several of my projects in this:<a href="https://github.com/Taxeta?tab=repositories">Repository</a>
 </p>
+
+_____
+
 <p align="center"> 
 My first child: [GalaxyPadel](https://galaxypadel.netlify.app/home)
 </p>
 
+
+_____
 <p align="center"> 
 :large_blue_diamond: Development Methodology :large_blue_diamond:
 </p>
@@ -100,8 +114,9 @@ My first child: [GalaxyPadel](https://galaxypadel.netlify.app/home)
   I strive to improve my <a href="https://es.wikipedia.org/wiki/Soft_skills">Soft Skills</a>.
 </p>
 
+
 <p align="center"> 
-  Thanks for visiting my profile!
+  Thanks for visiting my profile! 	:heart_on_fire:
 </p>
 
 </div>
