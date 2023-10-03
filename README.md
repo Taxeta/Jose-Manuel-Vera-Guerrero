@@ -67,7 +67,7 @@ _____
 
   _____
   
-:globe_with_meridians: DATABASES AND AUTHENTICATION :globe_with_meridians:
+:globe_with_meridians: Databases and Authentication :globe_with_meridians:
 </p>
 
 <p align="center"> 
@@ -93,7 +93,7 @@ _____
 You can find several of my projects in this:&nbsp;&nbsp; <a href="https://github.com/Taxeta?tab=repositories">Repository</a>
 </p>
 
-_____
+------
 
 <p align="center"> 
 My first child:&nbsp;&nbsp; <a href="https://galaxypadel.netlify.app/home">GalaxyPadel</a>
@@ -102,7 +102,7 @@ My first child:&nbsp;&nbsp; <a href="https://galaxypadel.netlify.app/home">Galax
 
 _____
 <p align="center"> 
-:large_blue_diamond: Development Methodology :large_blue_diamond:
+:large_blue_diamond: DEVELOPMENT METHODOLOGY :large_blue_diamond:
 </p>
 
 
@@ -110,14 +110,14 @@ _____
   I follow the agile methodology <a href="https://en.wikipedia.org/wiki/Agile_software_development">AGILE</a> and develop based on SOLID principles.
 </p>
 
-<p align="center">
-  I strive to improve my <a href="https://es.wikipedia.org/wiki/Soft_skills">Soft Skills</a>.
-</p>
-
 <p align="center"> 
   <a href="https://en.wikipedia.org/wiki/Agile_software_development">
     <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="65" height="65"/>
   </a>
+</p>
+
+<p align="center">
+  I strive to improve my <a href="https://es.wikipedia.org/wiki/Soft_skills">Soft Skills</a>.
 </p>
 
 <p align="center"> 
@@ -128,6 +128,12 @@ _____
 
 <p align="center"> 
   Thanks for visiting my profile! 	:heart_on_fire:
+</p>
+
+<p align="center"> 
+  Contact 	:heart_on_fire:
+<a href="https://www.linkedin.com/in/jose-manuel-vera-guerrero" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73L5Jj7HHZauL1HH_TVZNAMKCQm1MX_lgBnz74H7iiFVGEeAgfU5O4B297xEdfJu14MY&usqp=CAU" alt="jose manuel vera" height="30" width="40"/>linkedin</a>
+   <a href="mailto:josemanuelvera1991@gmail.com" target="blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="jose manuel vera" height="30" width="40"/>linkedin</a>
 </p>
 
 </div>
