@@ -1,11 +1,13 @@
-<p align="center"> 
+<div align="center"> 
 # Hello! I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻.
-</p>
-<p align="center"> 
+
+
 ## My Favorite Technology Stack: MERN Stack
 </p>
 <p align="center"> 
 ### Skills
+</p>
+
 
 <a href="https://es.wikipedia.org/wiki/Soft_skills" target="_blank">
 <img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="JavaScript" width="40" height="40"/>
@@ -14,7 +16,7 @@
 
 <p align="center"> 
 #### Programming Languages
-
+</p>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="javascript_icon.png" alt="JavaScript" width="40" height="40"/>
@@ -26,7 +28,7 @@
 
 ### Frontend Development
 
-<p align="center"> 
+
   <a href="https://reactjs.org/" target="_blank">
     <img src="react_icon.png" alt="React" width="40" height="40"/>
   </a>
@@ -39,7 +41,7 @@
   <a href="https://vitejs.dev/" target="_blank">
     <img src="vite_icon.png" alt="Vite" width="40" height="40"/>
   </a>
-</p>
+
 
 ### Backend Development
 
@@ -75,4 +77,4 @@ I follow the agile methodology [AGILE](https://en.wikipedia.org/wiki/Agile_softw
 
 Thanks for visiting my profile!
 
-</p>
+</div>
