@@ -70,9 +70,9 @@
 </p>
 
 <p align="center"> 
-You can find several of my projects in this [repository](https://github.com/Taxeta?tab=repositories).
+You can find several of my projects in this: [repository](https://github.com/Taxeta?tab=repositories)
 
-[GalaxyPadel](https://galaxypadel.netlify.app/home)
+My first child: [GalaxyPadel](https://galaxypadel.netlify.app/home)
 </p>
 
 <p align="center"> 
