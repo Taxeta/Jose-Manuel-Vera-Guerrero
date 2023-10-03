@@ -56,6 +56,9 @@ _____
 </p>
 
 <p align="center"> 
+
+  _____
+  
 :globe_with_meridians: DATABASES AND AUTHENTICATION :globe_with_meridians:
 </p>
 
