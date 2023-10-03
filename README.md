@@ -70,8 +70,9 @@
 </p>
 
 <p align="center"> 
-You can find several of my projects in this: [Repository](https://github.com/Taxeta?tab=repositories)
-
+You can find several of my projects in this:<a href="https://github.com/Taxeta?tab=repositories">Repository</a>
+</p>
+<p align="center"> 
 My first child: [GalaxyPadel](https://galaxypadel.netlify.app/home)
 </p>
 
@@ -81,7 +82,7 @@ My first child: [GalaxyPadel](https://galaxypadel.netlify.app/home)
 
 <p align="center"> 
   <a href="https://en.wikipedia.org/wiki/Agile_software_development">
-    <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="140" height="65"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="200" height="65"/>
   </a>
 </p>
 
