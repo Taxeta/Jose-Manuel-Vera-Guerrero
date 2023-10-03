@@ -82,11 +82,11 @@ _____
 </p>
 
 
-<div style= border: 2px solid #000; padding: 10px;>
+_____
+
 <p align="center"> 
 :zap: PROJECTS :zap:
 </p>
-</div>
 
 <p align="center"> 
 You can find several of my projects in this:&nbsp;&nbsp; <a href="https://github.com/Taxeta?tab=repositories">Repository</a>
@@ -100,6 +100,7 @@ My first child:&nbsp;&nbsp; <a href="https://galaxypadel.netlify.app/home">Galax
 
 
 _____
+
 <p align="center"> 
 :large_blue_diamond: DEVELOPMENT METHODOLOGY :large_blue_diamond:
 </p>
