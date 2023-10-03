@@ -23,7 +23,7 @@ _____
   </a>
 </p>
 
-_____
+--------------
 
 <p align="center"> 
 :large_blue_diamond: Frontend Development :large_blue_diamond:
@@ -44,7 +44,7 @@ _____
   </a>
 </p>
 
-_____
+--------------
 
 <p align="center"> 
 :large_orange_diamond: Backend Development :large_orange_diamond:
@@ -65,8 +65,8 @@ _____
 
 <p align="center"> 
 
-  _____
-  
+----------------
+
 :globe_with_meridians: Databases and Authentication :globe_with_meridians:
 </p>
 
@@ -87,7 +87,7 @@ _____
 <p align="center"> 
 :zap: PROJECTS :zap:
 </p>
-_____
+------
 
 <p align="center"> 
 You can find several of my projects in this:&nbsp;&nbsp; <a href="https://github.com/Taxeta?tab=repositories">Repository</a>
