@@ -82,7 +82,7 @@ _____
 </p>
 
 
-<div style= border: 1px solid #ccc>
+<div style= border: 2px solid #000; padding: 10px;>
 <p align="center"> 
 :zap: PROJECTS :zap:
 </p>
