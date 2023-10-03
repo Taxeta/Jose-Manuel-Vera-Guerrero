@@ -1,14 +1,18 @@
 <p align="center"> 
 # Hello! I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻.
-
+</p>
+<p align="center"> 
 ## My Favorite Technology Stack: MERN Stack
-
+</p>
+<p align="center"> 
 ### Skills
 
 <a href="https://es.wikipedia.org/wiki/Soft_skills" target="_blank">
 <img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="JavaScript" width="40" height="40"/>
 </a>
+</p>
 
+<p align="center"> 
 #### Programming Languages
 
 
@@ -18,7 +22,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="typescript_icon.png" alt="TypeScript" width="40" height="40"/>
   </a>
-
+</p>
 
 ### Frontend Development
 
