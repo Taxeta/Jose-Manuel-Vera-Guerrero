@@ -5,7 +5,7 @@
   ## My Favorite Technology Stack: MERN Stack
 </p>
 <p align="center"> 
-**SKILLS**
+:man_juggling: SKILLS :man_juggling:
 </p>
 
 <p align="center"> 
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center"> 
-You can find several of my projects in this: [repository](https://github.com/Taxeta?tab=repositories)
+You can find several of my projects in this: [Repository](https://github.com/Taxeta?tab=repositories)
 
 My first child: [GalaxyPadel](https://galaxypadel.netlify.app/home)
 </p>
