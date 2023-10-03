@@ -132,6 +132,8 @@ _____
 
 <p align="center"> 
   :calling:  Contact 	:calling:
+   </p>
+   <p align="center"> 
 <a href="https://www.linkedin.com/in/jose-manuel-vera-guerrero" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73L5Jj7HHZauL1HH_TVZNAMKCQm1MX_lgBnz74H7iiFVGEeAgfU5O4B297xEdfJu14MY&usqp=CAU" alt="jose manuel vera" height="30" width="40"/></a>
    <a href="mailto:josemanuelvera1991@gmail.com" target="blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="jose manuel email" height="30" width="40"/></a>
 </p>
