@@ -56,6 +56,18 @@ _____
 </p>
 
 <p align="center"> 
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" alt="Jest" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center"> 
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMwKgYjHpWXOY4Kvo8q0u08VdI-NbGS4UOFAgJBgE7jNJAN9fhoMHR16ZLvc-s6npQ&usqp=CAU" alt="Express" width="80" height="40"/>
+  </a>
+</p>
+
+<p align="center"> 
 
   _____
   
