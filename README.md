@@ -76,22 +76,31 @@ You can find several of my projects in this [repository](https://github.com/Taxe
 </p>
 
 <p align="center"> 
-## Development Methodology
+:large_blue_diamond: Development Methodology :large_blue_diamond:
 </p>
 
 <p align="center"> 
-  <a
-I follow the agile methodology [AGILE]("https://en.wikipedia.org/wiki/Agile_software_development") and develop based on SOLID principles.>
-  <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="MongoDB" width="140" height="65"/>
+  <a href="https://en.wikipedia.org/wiki/Agile_software_development">
+    <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="140" height="65"/>
   </a>
+</p>
 
+<p align="center">
+  I follow the agile methodology <a href="https://en.wikipedia.org/wiki/Agile_software_development">AGILE</a> and develop based on SOLID principles.
+</p>
 
-<a 
-I try to improve my [SoftSkills](href="https://es.wikipedia.org/wiki/Soft_skills" target="_blank")>
-<img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="JavaScript" width="40" height="40"/>
-</a>
-
-Thanks for visiting my profile!
 <p align="center"> 
-  
+  <a href="https://es.wikipedia.org/wiki/Soft_skills" target="_blank">
+    <img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="Soft Skills" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  I strive to improve my <a href="https://es.wikipedia.org/wiki/Soft_skills">Soft Skills</a>.
+</p>
+
+<p align="center"> 
+  Thanks for visiting my profile!
+</p>
+
 </div>
