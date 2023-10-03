@@ -90,7 +90,7 @@ _____
 _____
 
 <p align="center"> 
-You can find several of my projects in this: [Repository](https://github.com/Taxeta?tab=repositories)
+You can find several of my projects in this:&nbsp;&nbsp; <a href="https://github.com/Taxeta?tab=repositories">  Repository</a>
 </p>
 
 _____
