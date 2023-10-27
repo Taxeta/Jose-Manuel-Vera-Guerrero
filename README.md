@@ -95,7 +95,7 @@ You can find several of my projects in this:&nbsp;&nbsp; <a href="https://github
 
 
 <p align="center"> 
-My first child:&nbsp;&nbsp; <a href="https://galaxypadel.netlify.app/home">GalaxyPadel</a>
+Fullstack Project:&nbsp;&nbsp; <a href="https://galaxypadel.netlify.app/home">GalaxyPadel</a>
 </p>
 
 
