@@ -2,7 +2,7 @@
    👋 I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻
 
 
-  ## My Favorite Technology Stack: MERN Stack
+  ## Technology Stack: MERN Stack
 </p>
 <p align="center"> 
 :man_juggling: SKILLS :man_juggling:
