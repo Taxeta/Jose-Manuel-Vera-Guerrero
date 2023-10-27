@@ -1,5 +1,5 @@
 <div align="center"> 
-   Hello! I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻
+   👋 I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻
 
 
   ## My Favorite Technology Stack: MERN Stack
