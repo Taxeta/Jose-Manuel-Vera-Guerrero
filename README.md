@@ -15,10 +15,10 @@ _____
 </p>
 
 <p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="  blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvbqJLIQEMogIk2zaNa8fuXRqR6MqADhA2vPMv6UFxsqVTQzOIAcpHCrvhdgrxZBzIpYs&usqp=CAU" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="  blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaZOmu1I0jYuzPKpQxMs1FEEkXunHclqJtWnpbFjMDyNjUvMKvBAidPcpIBKJQlBNIoc&usqp=CAU" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
@@ -30,16 +30,16 @@ _____
 </p>
 
 <p align="center"> 
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="  blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXO1TwNofK1l1-628ES_LOQkScixtCgmae5jV9kggeagSBgxYq1g8c0-led2canKtuqqw&usqp=CAU" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="  blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuR36X_N08spVlfVy815ys4YkPUpP1c5zVaw8bkUdQda8_gJ2A2gsJSAjXe9I0VhJ_83A&usqp=CAU" alt="CSS" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="  blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mv5WLgEdTEchvqgrPj7hMwZogPmU1MAmB-UqjV3zul7Se-9ZrynsHvigo7zYCkS4_ZM&usqp=CAU" alt="HTML" width="40" height="40"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank">
+  <a href="https://vitejs.dev/" target="  blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ypcSFB8vFNdXYDW4BdzHMH8Bs755Ph2OPGLMsZ4EfH8Y6OQpQuicat_OAqMHyMQYhVc&usqp=CAU" alt="Vite" width="40" height="40"/>
   </a>
 </p>
@@ -50,15 +50,15 @@ _____
 :large_orange_diamond: Backend Development :large_orange_diamond:
 
 <p align="center"> 
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/" target="blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NlXPcDtzqYfFplGKTkVwDLnquG-CT34eH2JI1wAX_GA5tHEGjLmUtdd8U1zD8S9CX38&usqp=CAU" alt="Node.js" width="40" height="40"/>
   </a>
 
-  <a href="https://jestjs.io/" target="_blank">
+  <a href="https://jestjs.io/" target="blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" alt="Jest" width="40" height="40"/>
   </a>
  
-  <a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMwKgYjHpWXOY4Kvo8q0u08VdI-NbGS4UOFAgJBgE7jNJAN9fhoMHR16ZLvc-s6npQ&usqp=CAU" alt="Express" width="80" height="40"/>
   </a>
 </p>
@@ -124,7 +124,7 @@ _____
 </p>
 
 <p align="center"> 
-  <a href="https://es.wikipedia.org/wiki/Soft_skills" target="_blank">
+  <a href="https://es.wikipedia.org/wiki/Soft_skills" target="blank">
     <img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="Soft Skills" width="65" height="65"/>
   </a>
 </p>
