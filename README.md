@@ -70,13 +70,13 @@ _____
 </p>
 
 <p align="center"> 
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfA0GGJ32gRo1E-p8xh_ubvv048OXLdvW1x_rkyMB7XHB-jMjUiQjOpNeBK0KxfBM-g&usqp=CAU" alt="MongoDB" width="140" height="65"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
+  <a href="https://firebase.google.com/" target="blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="65" height="65"/>
   </a>
-  <a href="https://postman.com" target="_blank">
+  <a href="https://postman.com" target="blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65"/>
   </a>
 </p>
@@ -99,7 +99,7 @@ Fullstack Project:&nbsp;&nbsp; <a href="https://galaxypadel.netlify.app/home">Ga
 </p>
 
 <p align="center"> 
-Técnical Probe ShoppingCart:&nbsp;&nbsp; <a href="https://phone-cart-tecnicalprobe.netlify.app/phones">Phone Cart</a>
+Tecnical Probe ShoppingCart:&nbsp;&nbsp; <a href="https://phone-cart-tecnicalprobe.netlify.app/phones">Phone Cart</a>
 </p>
 
 _____
