@@ -1,6 +1,7 @@
 <div align="center"> 
    👋 I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻
 
+That's my porfolio: <a href="https://www.josevera-developer.com/">Web</a>
 
   ## Technology Stack: MERN
 </p>
@@ -98,7 +99,11 @@ Fullstack Project:&nbsp;&nbsp; <a href="https://galaxypadel.netlify.app/home">Ga
 </p>
 
 <p align="center"> 
-Tecnical Probe ShoppingCart:&nbsp;&nbsp; <a href="https://phone-cart-tecnicalprobe.netlify.app/phones">Phone Cart</a>
+Tecnical Probe ShoppingCart:&nbsp;&nbsp; <a href="https://phone-cart-tecnicalprobe.netlify.app/phones">PhoneCart</a>
+</p>
+
+<p align="center"> 
+Libreria Midu:&nbsp;&nbsp; <a href="https://libreria-midu.vercel.app/">LibreriaMidu</a>
 </p>
 
 _____
