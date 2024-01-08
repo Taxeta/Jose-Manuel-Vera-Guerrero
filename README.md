@@ -18,7 +18,7 @@ _____
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvbqJLIQEMogIk2zaNa8fuXRqR6MqADhA2vPMv6UFxsqVTQzOIAcpHCrvhdgrxZBzIpYs&usqp=CAU" alt="JavaScript" width="40" height="40"/>
   </a>
-   <p></p>
+   <span></span>
    <a href="https://www.typescriptlang.org/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaZOmu1I0jYuzPKpQxMs1FEEkXunHclqJtWnpbFjMDyNjUvMKvBAidPcpIBKJQlBNIoc&usqp=CAU" alt="TypeScript" width="40" height="40"/>
   </a>
@@ -33,16 +33,13 @@ _____
 <p align="center"> 
   <a href="https://reactjs.org/" target="blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXO1TwNofK1l1-628ES_LOQkScixtCgmae5jV9kggeagSBgxYq1g8c0-led2canKtuqqw&usqp=CAU" alt="React" width="40" height="40"/>
-  </a>
-   
+  </a>   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuR36X_N08spVlfVy815ys4YkPUpP1c5zVaw8bkUdQda8_gJ2A2gsJSAjXe9I0VhJ_83A&usqp=CAU" alt="CSS" width="40" height="40"/>
-  </a>
-  
+  </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mv5WLgEdTEchvqgrPj7hMwZogPmU1MAmB-UqjV3zul7Se-9ZrynsHvigo7zYCkS4_ZM&usqp=CAU" alt="HTML" width="40" height="40"/>
   </a>
-  
   <a href="https://vitejs.dev/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ypcSFB8vFNdXYDW4BdzHMH8Bs755Ph2OPGLMsZ4EfH8Y6OQpQuicat_OAqMHyMQYhVc&usqp=CAU" alt="Vite" width="40" height="40"/>
   </a>
