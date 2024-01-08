@@ -53,11 +53,9 @@ _____
   <a href="https://nodejs.org/" target="blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NlXPcDtzqYfFplGKTkVwDLnquG-CT34eH2JI1wAX_GA5tHEGjLmUtdd8U1zD8S9CX38&usqp=CAU" alt="Node.js" width="40" height="40"/>
   </a>
-
   <a href="https://jestjs.io/" target="blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" alt="Jest" width="40" height="40"/>
   </a>
- 
   <a href="https://expressjs.com/" target="blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMwKgYjHpWXOY4Kvo8q0u08VdI-NbGS4UOFAgJBgE7jNJAN9fhoMHR16ZLvc-s6npQ&usqp=CAU" alt="Express" width="80" height="40"/>
   </a>
@@ -118,17 +116,14 @@ _____
     <img src="https://miro.medium.com/v2/resize:fit:1080/1*uPBUEOangGDflQ82xgrCzw.jpeg" alt="Agile Methodology" width="65" height="65"/>
   </a>
 </p>
-
 <p align="center">
   I strive to improve my <a href="https://es.wikipedia.org/wiki/Soft_skills">Soft Skills</a>.
 </p>
-
 <p align="center"> 
   <a href="https://es.wikipedia.org/wiki/Soft_skills" target="blank">
     <img src="https://thenounproject.com/api/private/icons/6147930/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0" alt="Soft Skills" width="65" height="65"/>
   </a>
 </p>
-
 <p align="center"> 
   Thanks for visiting my profile! 	:heart_on_fire:
 </p>
