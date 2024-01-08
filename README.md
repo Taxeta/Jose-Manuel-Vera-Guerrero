@@ -126,7 +126,7 @@ _____
   </a>
 </p>
 <p align="center"> 
-  Thanks for visiting my profile! 	:heart_on_fire:
+  Thanks for visiting my profile! 
 </p>
 
 <p align="center"> 
