@@ -1,6 +1,6 @@
 <div align="center"> 
    👋 I'm Jose Manuel Vera Guerrero, a Fullstack Developer 💻
-<br/>
+<br> </br>
 That's my porfolio: <a href="https://www.josevera-developer.com/">Web</a>
 
   ## Technology Stack: MERN
