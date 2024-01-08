@@ -18,7 +18,7 @@ _____
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvbqJLIQEMogIk2zaNa8fuXRqR6MqADhA2vPMv6UFxsqVTQzOIAcpHCrvhdgrxZBzIpYs&usqp=CAU" alt="JavaScript" width="40" height="40"/>
   </a>
-   <span>" "</span>
+   <hr> </hr>
    <a href="https://www.typescriptlang.org/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaZOmu1I0jYuzPKpQxMs1FEEkXunHclqJtWnpbFjMDyNjUvMKvBAidPcpIBKJQlBNIoc&usqp=CAU" alt="TypeScript" width="40" height="40"/>
   </a>
